@@ -55,7 +55,7 @@ In the project directory:
 
   Go to src and remove from App.css Line 2 and 7
 
-  ```javascript class:"lineYes"
+  ```javascript class:"lineNo"
   .container {
     padding-top: 80px;
   }
