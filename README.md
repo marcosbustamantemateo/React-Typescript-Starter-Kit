@@ -13,7 +13,7 @@ Libraries:
 
 ### `git clone` https://github.com/marcosbustamantemateo/React-Typescript-Starter-Kit.git
 
-## Start
+- Start
 
 In the project directory:
 
@@ -23,7 +23,7 @@ Then
 
 ### `npm start`
 
-# How to...
+# Documentation
 
 - Add items to NavMenu
 
