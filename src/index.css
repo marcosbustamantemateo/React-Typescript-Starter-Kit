@@ -1,0 +1,53 @@
+.container {
+  padding-top: 80px;
+}
+
+.header {
+  height: 70px;
+  position: fixed;
+  width: 100%;
+  background-color: black;
+  color: white;
+}
+
+.buttonSearch {
+  margin: 10px;
+  position: absolute;
+  right: 0;
+  top: 4px;
+}
+
+.buttonSearch:hover {
+  background-color: #60b3fe;
+}
+
+.buttonSearch:hover * {
+  color: #ffffff;
+}
+
+.buttonMenu {
+  margin: 10px;
+  position: absolute;
+  left: 0;
+}
+
+.buttonMenu:hover {
+  background-color: #60b3fe;
+}
+
+.buttonMenu:hover * {
+  color: #ffffff;
+}
+
+.menuItems {
+  display: block;
+  text-align: center;
+}
+
+.menuItems:hover {
+  text-decoration: none;
+}
+
+.center {
+  text-align: center;
+}
