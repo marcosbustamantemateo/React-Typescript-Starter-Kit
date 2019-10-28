@@ -11,7 +11,7 @@ Libraries:
 
 ## Install
 
-### `git clone https://github.com/marcosbustamantemateo/React-Typescript-Starter-Kit.git`
+### `git clone` https://github.com/marcosbustamantemateo/React-Typescript-Starter-Kit.git
 
 ## Start
 
