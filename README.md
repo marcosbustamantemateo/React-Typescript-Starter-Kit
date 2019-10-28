@@ -9,13 +9,11 @@ Libraries:
   - React Router
   - React Suite
 
-## Install
+## How to install & start
 
 ### `git clone` https://github.com/marcosbustamantemateo/React-Typescript-Starter-Kit.git
 
-- Start
-
-  In the project directory:
+In the project directory:
 
 ### `npm install`
 
