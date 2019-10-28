@@ -33,7 +33,7 @@ export default class Home extends Component<IProps, IState> {
       <div className="container">
         <h1>Home</h1>
         {this.state.elements.map(element => (
-          <p>{element}</p>
+          <p key={element}>{element}</p>
         ))}
       </div>
     );
