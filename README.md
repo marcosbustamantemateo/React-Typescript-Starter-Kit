@@ -1,6 +1,7 @@
 # React Typescript Starter Kit
 
-The perfect solution for starting React Typescript projects
+Tired of always doing the same to start a project?
+This is for you! The perfect solution for starting React Typescript projects
 Include Menu with navigation
 
 Libraries:
