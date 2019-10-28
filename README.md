@@ -27,7 +27,7 @@ Then
 
 - Add items to NavMenu
 
-  Go to /constant and edit MenuItems.ts
+  Go to src/constant and edit MenuItems.ts
   
   ```
   import Home from './../screens/Home';
