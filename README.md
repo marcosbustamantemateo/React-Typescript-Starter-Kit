@@ -51,36 +51,36 @@ In the project directory:
   ];
   ```
 
-  - Disable fixed header
+- Disable fixed header
 
-    Go to src and remove from App.css Line 2 and 7
+  Go to src and remove from App.css Line 2 and 7
 
-    ```javascript class:"lineNo"
-    .container {
-      padding-top: 80px;
-    }
+  ```javascript class:"lineNo"
+  .container {
+    padding-top: 80px;
+  }
 
-    .header {
-      height: 70px;
-      position: fixed;
-      width: 100%;
-      background-color: black;
-      color: white;
-    }
-    ```
+  .header {
+    height: 70px;
+    position: fixed;
+    width: 100%;
+    background-color: black;
+    color: white;
+  }
+  ```
 
-    Check it with this method in Home.tsx
+  Check it with this method in Home.tsx
 
-    ```javascript class:"lineNo"
-    checkFixedHeader = () => {
-    let newArray: Array<number> = [];
-    for (let index = 0; index < 100; index++) {
-      newArray.push(index);
-    }
-    this.setState({ elements: this.state.elements.concat(newArray) });
-    };
-    ```
-    Uncomment it on componenteDidMount to run
+  ```javascript class:"lineNo"
+  checkFixedHeader = () => {
+  let newArray: Array<number> = [];
+  for (let index = 0; index < 100; index++) {
+    newArray.push(index);
+  }
+  this.setState({ elements: this.state.elements.concat(newArray) });
+  };
+  ```
+  Uncomment it on componenteDidMount to run
 
 
 # Soon
