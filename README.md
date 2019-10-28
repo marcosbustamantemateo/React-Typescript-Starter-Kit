@@ -55,7 +55,7 @@ In the project directory:
 
   Go to src and remove from App.css Line 2 and 7
 
-  ```javascript class:"lineNo"
+  ```javascript class:"lineYes"
   .container {
     padding-top: 80px;
   }
@@ -69,15 +69,15 @@ In the project directory:
   }
   ```
 
-  Check it with this method in Home.tsx
+  Check it with this method in src/screens/Home.tsx
 
   ```javascript class:"lineNo"
   checkFixedHeader = () => {
-  let newArray: Array<number> = [];
-  for (let index = 0; index < 100; index++) {
-    newArray.push(index);
-  }
-  this.setState({ elements: this.state.elements.concat(newArray) });
+    let newArray: Array<number> = [];
+    for (let index = 0; index < 100; index++) {
+      newArray.push(index);
+    }
+    this.setState({ elements: this.state.elements.concat(newArray) });
   };
   ```
   Uncomment it on componenteDidMount to run
