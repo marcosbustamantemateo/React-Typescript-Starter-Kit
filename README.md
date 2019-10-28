@@ -15,11 +15,11 @@ Libraries:
 
 - Start
 
-In the project directory:
+  In the project directory:
 
 ### `npm install`
 
-Then
+  Then
 
 ### `npm start`
 
