@@ -11,9 +11,6 @@ Libraries:
   - React Router
   - React Suite
 
-![alt text](https://github.com/marcosbustamantemateo/React-Typescript-Starter-Kit/blob/master/images/NavMenu.PNG)
-![alt text](https://github.com/marcosbustamantemateo/React-Typescript-Starter-Kit/blob/master/images/searchModal.PNG)
-
 # How to install & start
 
 ### `git clone` https://github.com/marcosbustamantemateo/React-Typescript-Starter-Kit.git
